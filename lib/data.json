@@ -1,0 +1,104 @@
+{
+  "projects": [
+    {
+      "title": "BLM95",
+      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, quisquam.",
+      "imageUrl": "/assets/projectImagePlaceholder.png",
+      "link": "https://project1.com"
+    },
+    {
+      "title": "TuftHappy",
+      "description": "Add e-commerce features: catalog, shopping cart and checkout",
+      "imageUrl": "/assets/projectImagePlaceholder.png",
+      "link": "https://www.tufthappy.com/"
+    },
+    {
+      "title": "Vulvae Lite",
+      "description": "Revamp of the actual Vulvae App",
+      "imageUrl": "/assets/projectImagePlaceholder.png",
+      "link": "https://project3.com"
+    },
+    {
+      "title": "KLUBS",
+      "description": "To be annouced",
+      "imageUrl": "/assets/projectImagePlaceholder.png",
+      "link": "https://project4.com"
+    }
+  ],
+  "stacks": {
+    "frontend": [
+      {
+        "name": "TypeScript",
+        "imageUrl": "/assets/stackLogo/frontend/typescript.png"
+      },
+      {
+        "name": "JavaScript",
+        "imageUrl": "/assets/stackLogo/frontend/javascript.png"
+      },
+      {
+        "name": "React & React Native",
+        "imageUrl": "/assets/stackLogo/frontend/react.png"
+      },
+      {
+        "name": "Next.js",
+        "imageUrl": "/assets/stackLogo/frontend/nextjs.png"
+      },
+      {
+        "name": "Tailwind CSS",
+        "imageUrl": "/assets/stackLogo/frontend/tailwindcss.png"
+      },
+      {
+        "name": "HTML",
+        "imageUrl": "/assets/stackLogo/frontend/html.png"
+      },
+      {
+        "name": "CSS",
+        "imageUrl": "/assets/stackLogo/frontend/css.png"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "imageUrl": "/assets/stackLogo/backend/nodejs.png"
+      },
+      {
+        "name": "Express",
+        "imageUrl": "/assets/stackLogo/backend/express.png"
+      },
+      {
+        "name": "Prisma",
+        "imageUrl": "/assets/stackLogo/backend/prisma.png"
+      },
+      {
+        "name": "MongoDB",
+        "imageUrl": "/assets/stackLogo/backend/mongodb.png"
+      },
+      {
+        "name": "MySQL",
+        "imageUrl": "/assets/stackLogo/backend/mysql.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "imageUrl": "/assets/stackLogo/backend/postgresql.png"
+      }
+    ],
+    "devOps": [
+      {
+        "name": "Docker",
+        "imageUrl": "/assets/stackLogo/devops/docker.png"
+      },
+      {
+        "name": "AWS",
+        "imageUrl": "/assets/stackLogo/devops/aws.png"
+      },
+      {
+        "name": "Git",
+        "imageUrl": "/assets/stackLogo/devops/git.png"
+      },
+      {
+        "name": "GitHub Actions",
+        "imageUrl": "/assets/stackLogo/devops/github.png"
+      }
+    ]
+  }
+}
