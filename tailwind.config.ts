@@ -15,7 +15,7 @@ const config: Config = {
         gray: "#D9D9D9",
       },
       screens: {
-        xs: "475px",
+        xs: "320px",
       },
     },
   },

@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <header className="w-full p-6 mt-4 border-b-[8px] border-black border-dashed">
       <div className="container mx-auto flex justify-between items-center">
-        <div className="text-4xl font-bold">@ Yaniss_Besson</div>
+        <div className="text-2xl xs:text-xl font-bold">@ Yaniss_Besson</div>
         <nav className="hidden lg:flex space-x-8">
           <a href="#projects" className="text-3xl relative group">
             Projects
