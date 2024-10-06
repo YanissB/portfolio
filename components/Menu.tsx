@@ -33,7 +33,7 @@ const Menu = () => {
     <div className="relative" ref={menuRef}>
       <button
         onClick={toggleMenu}
-        className="text-xl p-2 border-2 bg-gray shadow-[2px_2px_0px_rgba(0,0,0,1)] border-black rounded-full"
+        className="text-xl p-2 border-2 bg-white shadow-[6px_6px_0px_rgba(217,217,217,1)] border-gray rounded-full"
       >
         Menu
       </button>

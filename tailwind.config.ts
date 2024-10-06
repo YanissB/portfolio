@@ -14,6 +14,9 @@ const config: Config = {
         white: "#FCFBE9",
         gray: "#D9D9D9",
       },
+      screens: {
+        xs: "475px",
+      },
     },
   },
   plugins: [],

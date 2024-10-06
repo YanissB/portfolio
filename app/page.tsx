@@ -46,10 +46,7 @@ const Home = () => {
               <StackCard stacks={data.stacks.frontend} />
             </div>
             <div>
-              <h2 className="text-2xl font-semibold mb-4">
-                {" "}
-                &#x21B3; Backend_
-              </h2>
+              <h2 className="text-2xl font-semibold mb-4">&#x21B3; Backend_</h2>
               <StackCard stacks={data.stacks.backend} />
             </div>
             <div>
@@ -59,7 +56,7 @@ const Home = () => {
           </div>
         </section>
       </main>
-      <div className="fixed bottom-20 left-0 right-0 flex justify-center mb-4 md:hidden">
+      <div className="fixed bottom-20 left-0 right-0 flex justify-center mb-4 lg:hidden">
         <Menu />
       </div>
     </div>
